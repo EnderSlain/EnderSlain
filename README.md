@@ -19,7 +19,7 @@
 
 
 ## Github Stats
- ![EnderSlain's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnderSlain456&show_icons=true&theme=radical)
+ ![EnderSlain's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnderSlain&show_icons=true&theme=radical)
 
 <h3 align="left">Socials:</h3>
 <p align="left">
